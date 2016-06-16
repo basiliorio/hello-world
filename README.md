@@ -1,2 +1,2 @@
 # hello-world
-n00b
+n00b - just starting with gitHub so doing tutorial
